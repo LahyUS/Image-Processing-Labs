@@ -1,0 +1,49 @@
+﻿  ColorTransformer.cpp
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(65,29): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(135,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(139,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(143,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(181,13): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(182,13): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(183,13): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(246,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(256,41): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(257,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(263,41): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(264,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(270,41): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(271,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\ColorTransformer.cpp(323,81): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Converter.cpp
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\Converter.cpp(75,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\Converter.cpp(76,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\Converter.cpp(203,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\Converter.cpp(204,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  IP-Lab1.cpp
+D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\IP-Lab1\IP-Lab1.cpp(162,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  IP-Lab1.vcxproj -> D:\OneDrive\OneDrive - VNU-HCMUS\ĐH\HK5\ImageProcessing\Lab\Lab1\18120320-18120424-18120402-18120527-18120526_Lab01\Source\IP-Lab1\x64\Debug\IP-Lab1.exe

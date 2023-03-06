@@ -1,0 +1,46 @@
+﻿  ColorTransformer.cpp
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(65,29): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(135,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(139,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(143,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(181,13): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(182,13): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(183,13): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(246,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(256,41): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(257,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(263,41): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(264,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(270,41): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(271,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\buihu\source\repos\IP-Lab1\IP-Lab1\ColorTransformer.cpp(323,81): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 262 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IP-Lab1.vcxproj -> C:\Users\buihu\source\repos\IP-Lab1\x64\Release\IP-Lab1.exe
