@@ -49,4 +49,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 - Inspired by concepts in image processing
 - Implemented in C++ programming language with OpenCV library
-
